@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-readme-streak-stats.herokuapp.com/?user=Scronite
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Scronite&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 **Scronite/Scronite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
